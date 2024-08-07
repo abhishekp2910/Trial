@@ -1,5 +1,8 @@
+
 p {
     color:purple;
-    font-size: large;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
 }
